@@ -1,6 +1,6 @@
 import streamlit as st
 
-st.title("테스트 앱")
+st.title("절대 누르지마세요!!")
 
 @st.dialog("알림")
 def show_popup():
